@@ -1,0 +1,6 @@
+= Project makers to other scenes
+
+This operator will replace the markers in other scenes with the makers in the current scene.
+
+To use, search for "Project markers to other scenes" in the search box (`[space]` in older setups)
+
