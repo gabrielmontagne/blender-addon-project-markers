@@ -6,7 +6,7 @@ bl_info = {
     'version': (0, 0, 1),
     'blender': (2, 80, 0),
     'description': 'Replace makers in other scenes with the markers in this scene',
-    'tracker_url': 'https://bitbucket.org/gabriel.montagne/blender-addon-project-markers/issues?status=new&status=open',
+    'tracker_url': 'https://github.com/gabrielmontagne/blender-addon-project-markers/issues?status=new&status=open',
     'category': 'Object'
 }
 
