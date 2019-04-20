@@ -1,6 +1,6 @@
 import bpy
 
-{
+bl_info = {
     'name': 'Project markers to other scenes',
     'author': 'gabriel montagné, gabriel@tibas.london',
     'version': (0, 0, 1),
